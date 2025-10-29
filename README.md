@@ -13,6 +13,11 @@ pip install seaborn
 
 
 
+
+
+
+
+
 INTEGRANTES:
 
 CANUL CANUL JULISSA JANETH
